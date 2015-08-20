@@ -12,6 +12,8 @@ namespace ConsoleApplication1
         {
             //changed.
             Console.WriteLine("Hello");
+
+            //changed in brach 1
         }
     }
 }
